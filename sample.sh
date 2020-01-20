@@ -12,6 +12,8 @@ sleep 3
 
 #echo "Ping Complete"
 
+rm -r ./../scripts
+
 
 
 
