@@ -1,5 +1,4 @@
 #/bin/bash
-echo "Login successfully"
 echo "Running sample shell script"
 sleep 2
 ifconfig
