@@ -12,7 +12,7 @@ sleep 3
 
 #echo "Ping Complete"
 
-rm -rf ./scripts
+rm -rf scripts/
 
 
 
